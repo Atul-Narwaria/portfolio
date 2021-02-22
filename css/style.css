@@ -1,0 +1,37 @@
+.bg-dark-coffee {
+    background-color: rgb(37, 37, 37);
+}
+
+.bg-coffee {
+    background-color: rgb(51, 51, 51);
+}
+
+.bg-orange {
+    background-color: rgb(251, 129, 90);
+}
+
+.orange {
+    color: rgb(251, 129, 90);
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
+
+.border-oranger {
+    border: 1px solid rgb(251, 129, 90);
+}
+
+.btn:hover {
+    color: rgb(251, 129, 90);
+}
+
+.card-img-dm {
+    width: 100%;
+    height: 100%;
+}
